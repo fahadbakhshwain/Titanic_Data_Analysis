@@ -24,3 +24,4 @@
 4. قم بتشغيل الخلايا خطوة بخطوة لمشاهدة التحليل.
 
 ---Update README with project details
+https://github.com/fahadbakhshwain/Titanic_Data_Analysis
